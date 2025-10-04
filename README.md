@@ -1,16 +1,6 @@
-# INET4031 - Module 6 - Working with Remote Systems
+# INET4031 - Lab 4
 
-## Instructions, files, code for Lab 6.
+In this repo there are two image files of a lightbulb, one on and one off.
 
-What if you aren't nearby the computer you need to work on?
-
-Up until this point, our Lab activities have been accomplished by doing them on our laptops.
-
-In this activity we explore the concept of "servers."  Which typically aren't located where we are.
-
-We have to connect to them remotely
-
-This Lab explores that concept.
-
-
-
+The HTML file renders the images and has two buttons to change which image
+is rendered, making the lightbulb appear to 'turn on' or 'turn off'.
